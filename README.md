@@ -1,4 +1,4 @@
-# 🎬 Netflix Clone
+# 🎬 Netflix Clone 
 
 A **Netflix Clone website** created using only **HTML5 and CSS3**. This project is designed to recreate the look and layout of the Netflix homepage with a clean, responsive, and modern UI.
 
